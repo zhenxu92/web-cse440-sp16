@@ -1,7 +1,27 @@
-Place all of your website content in this folder!
+# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
 
-You _MUST_ include a 150px x 150px thumbnail image with the filename `project_thumb.png`
+[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
-You should test/debug your website by placing all of your content in this directory and then running `jekyll serve` or `invoke serve_test` from the root of the course website directory (given that you have already set up your development environment with Node.js 5.1.0, Python 3.5.0, Ruby 2.2.3, and Ruby DevKit). By testing your website within the actual course webstie, you guarantee it will look correct when pushed to the live course website. Follow the development instructions at https://courses.cs.washington.edu/courses/cse440/16sp/development/index.html to set up your build environment.
+## Getting Started
 
-Note that this content will be loaded from the directory https://courses.cs.washington.edu/courses/cse440/16sp/projects/[PROJECT_NAME]/, so you should not use absolute paths in development. The easiest approach to getting your URLs correct is to not use `./` or `../` in URLS. For instance, if you are trying to reference an image `logo.png` in the same directory as your `index.html`, then you should use the URL `logo.png` instead of `./logo.png'. Use the Chrome debugger panel to solve URL issues (open your webpage in Chrome and then press F12 on Windows or cmd + option + j on Mac). If all else fails, ask Alex.
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-clean-blog.git`
+* Fork the repo
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
